@@ -1,0 +1,11 @@
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\obj\Debug\netcoreapp3.1\ParallelGraph.csprojAssemblyReference.cache
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\obj\Debug\netcoreapp3.1\ParallelGraph.AssemblyInfoInputs.cache
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\obj\Debug\netcoreapp3.1\ParallelGraph.AssemblyInfo.cs
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\bin\Debug\netcoreapp3.1\ParallelGraph.exe
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\bin\Debug\netcoreapp3.1\ParallelGraph.deps.json
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\bin\Debug\netcoreapp3.1\ParallelGraph.runtimeconfig.json
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\bin\Debug\netcoreapp3.1\ParallelGraph.runtimeconfig.dev.json
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\bin\Debug\netcoreapp3.1\ParallelGraph.dll
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\bin\Debug\netcoreapp3.1\ParallelGraph.pdb
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\obj\Debug\netcoreapp3.1\ParallelGraph.dll
+C:\Users\Jenny\JetBrains\ParallelGraph\ParallelGraph\obj\Debug\netcoreapp3.1\ParallelGraph.pdb
